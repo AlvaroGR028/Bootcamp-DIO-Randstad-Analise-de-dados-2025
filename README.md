@@ -11,8 +11,8 @@ Ao longo do bootcamp, foram trabalhados temas como **IA Generativa**, **Banco de
 
 | Projeto | Descrição | Link |
 |----------|------------|------|
-| 🧠 **Modelagem de Banco de Dados – E-commerce** | Modelo conceitual para sistema de e-commerce, com diagrama e script SQL. | [🔗 Ver Repositório](https://github.com/AlvaroGR028/dio-projeto-ecommerce-bd) |
-| 🛠️ **Modelagem de Banco de Dados – Oficina Mecânica** | Esquema conceitual baseado em narrativa de sistema de ordens de serviço. | [🔗 Ver Repositório](https://github.com/AlvaroGR028/oficina-mecanica-diagrama) |
+| 🧠 **Modelagem de Banco de Dados – E-commerce** | Modelo conceitual para sistema de e-commerce, com diagrama e script SQL. | [🔗](https://github.com/AlvaroGR028/dio-projeto-ecommerce-bd) |
+| 🛠️ **Modelagem de Banco de Dados – Oficina Mecânica** | Esquema conceitual baseado em narrativa de sistema de ordens de serviço. | [🔗](https://github.com/AlvaroGR028/oficina-mecanica-diagrama) |
 
 > *Novos projetos serão adicionados conforme o andamento do bootcamp.*
 
