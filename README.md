@@ -1,68 +1,62 @@
-# 📊 Bootcamp DIO.me – Randstad | Análise de Dados  
+# 📊 Repositório de Projetos – Bootcamp DIO | Randstad Análise de Dados
 
-Repositório para anotações e práticas desenvolvidas durante o bootcamp.  
-Objetivo: consolidar fundamentos de **IA Generativa**, **Machine Learning**, **PLN** e uso de ferramentas na **Azure**.
+Este repositório reúne um índice dos **projetos desenvolvidos** durante o Bootcamp **Randstad – Análise de Dados** da **Digital Innovation One (DIO)**.
 
----
-
-## 🧠 Fundamentos da IA Generativa  
-- Cria novos conteúdos (texto, imagem, áudio, vídeo, código) a partir de padrões aprendidos em grandes bases de dados.  
-- Baseada em modelos como **LLMs** (Large Language Models) e **GANs** (Generative Adversarial Networks).  
-- Exemplos: ChatGPT, Copilot, DALL·E, MidJourney.  
+📚 Aqui estão centralizados os links para os repositórios individuais, com resumos e descrições de cada desafio.  
+Ao longo do bootcamp, foram trabalhados temas como **IA Generativa**, **Banco de Dados**, **Machine Learning**, **Power BI** e **Integração com Azure**.
 
 ---
 
-## 🤖 Conceitos Fundamentais de IA  
-- IA simula capacidades humanas como raciocínio, aprendizado e percepção.  
-- **IA fraca**: especializada em uma tarefa.  
-- **IA forte**: generalista, capaz de resolver múltiplos tipos de problemas.  
-- Áreas principais: **Visão Computacional**, **Processamento de Linguagem Natural (PLN)**, **Aprendizado de Máquina (ML)** e **Robótica**.  
+## 🧩 Projetos Entregues até o momento
+
+| Projeto | Descrição | Link |
+|----------|------------|------|
+| 🧠 **Modelagem de Banco de Dados – E-commerce** | Modelo conceitual para sistema de e-commerce, com diagrama e script SQL. | [🔗 Ver Repositório](https://github.com/AlvaroGR028/dio-projeto-ecommerce-bd) |
+| 🛠️ **Modelagem de Banco de Dados – Oficina Mecânica** | Esquema conceitual baseado em narrativa de sistema de ordens de serviço. | [🔗 Ver Repositório](https://github.com/AlvaroGR028/oficina-mecanica-diagrama) |
+
+> *Novos projetos serão adicionados conforme o andamento do bootcamp.*
 
 ---
 
-## 📈 Fundamentos do Aprendizado de Máquina (ML)  
-- Ensina máquinas a aprender a partir de dados e realizar previsões ou classificações.  
-- **Tipos principais**:  
-  - **Supervisionado** – dados rotulados.  
-  - **Não supervisionado** – encontra padrões sem rótulos.  
-  - **Reforço** – aprendizado por tentativa e erro.  
+## 🧠 Conteúdos abordados no Bootcamp
+
+- Fundamentos de **IA Generativa** e **Machine Learning**  
+- **Modelagem Conceitual, Lógica e Física** de Bancos de Dados  
+- **Power BI** para visualização de dados e relatórios  
+- **Azure Machine Learning** e **Language Studio**  
+- **Git & GitHub** – versionamento e portfólio de projetos  
 
 ---
 
-## 💬 Conceitos de Processamento de Linguagem Natural (PLN)  
-- IA focada em compreender, interpretar e gerar linguagem humana.  
-- Aplicações: chatbots, análise de sentimentos, tradutores, sumarizadores de texto.  
-- Técnicas usadas: **tokenização**, **vetorização**, **embeddings**.  
+## 🧰 Ferramentas utilizadas
+
+- **MySQL Workbench**  
+- **VS Code + Copilot**  
+- **Power BI**  
+- **Azure ML / Language Studio**  
+- **GitHub Desktop**
 
 ---
 
-## 🧪 Prática – Azure Language Studio  
-- Plataforma da Microsoft para criar e testar modelos de PLN.  
-- Recursos usados no bootcamp:  
-  - Análise de sentimentos.  
-  - Extração de entidades.  
-  - Tradução automática.  
-  - Sumarização de textos.  
+## 🧭 Estrutura do Portfólio
+
+Cada projeto desenvolvido possui seu próprio repositório contendo:
+- Diagrama conceitual (imagem `.png`)
+- Arquivo do MySQL Workbench (`.mwb`)
+- Script SQL gerado (`.sql`)
+- README com o contexto e descrição do projeto
 
 ---
 
-## ☁ Azure Machine Learning – Visão Geral  
-- Plataforma na nuvem para criar, treinar, avaliar e implantar modelos de IA e ML.  
-- Funcionalidades:  
-  - **Data Prep**: limpeza e transformação de dados.  
-  - **Model Training**: treinamento e avaliação de modelos.  
-  - **Deploy**: publicação de modelos como APIs.  
-  - **Monitoramento**: acompanhamento de desempenho e ajustes.  
-- Suporte a frameworks populares: **Scikit-learn**, **TensorFlow**, **PyTorch**.  
-- Possui **ML Studio** (interface web) e integração com código via **SDK do Azure ML**.  
+## 🚀 Próximos Desafios (em andamento)
+
+- [ ] Projeto lógico – E-commerce  
+- [ ] Projeto lógico – Oficina Mecânica  
+- [ ] Dashboard de vendas em Excel  
+- [ ] Dashboard de vendas em Power BI  
+- [ ] Integração MySQL + Power BI + Azure  
 
 ---
 
-## 🚀 Próximos Passos  
-- [ ] Criar exemplos práticos de uso no Azure Machine Learning.  
-- [ ] Documentar comandos e scripts úteis.  
-- [ ] Adicionar links de referência e materiais de estudo.  
-
----
-
-📌 *Anotações baseadas no conteúdo do bootcamp e práticas realizadas no Azure.*  
+> Repositório mantido por **Álvaro Gonçalves Rodrigues**.  
+> Desenvolvido com base nos desafios e mentorias da **DIO.me | Randstad**.
