@@ -50,8 +50,8 @@ Cada projeto desenvolvido possui seu próprio repositório contendo:
 
 ## 🚀 Próximos Desafios (em andamento)
 
-- [ ] Projeto lógico – E-commerce  
-- [ ] Projeto lógico – Oficina Mecânica  
+- [X] Projeto lógico – E-commerce  
+- [X] Projeto lógico – Oficina Mecânica  
 - [ ] Dashboard de vendas em Excel  
 - [ ] Dashboard de vendas em Power BI  
 - [ ] Integração MySQL + Power BI + Azure  
