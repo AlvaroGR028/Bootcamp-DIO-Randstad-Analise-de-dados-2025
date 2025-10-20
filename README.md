@@ -9,7 +9,7 @@ Aqui reuni tudo que produzi: modelagens de banco, dashboards, integrações e de
 
  ## 🎓📜 Certificado de Conclusão
 
-![Certificado do Bootcamp DIO Randstad – Análise de Dados](./CertificadoConclusao.png)
+![Certificado do Bootcamp DIO Randstad – Análise de Dados](./CertificadoConclusao.jpg)
 
 [📜 Abrir Certificado em PDF](./certificado.pdf)
 
